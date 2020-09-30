@@ -126,7 +126,8 @@ GEM
     inflecto (0.0.2)
     ipaddress (0.8.0)
     jsmin (1.0.1)
-    kramdown (1.6.0)
+    kramdown (2.3.0)
+      rexml
     listen (2.9.0)
       celluloid (>= 0.15.2)
       rb-fsevent (>= 0.9.3)
@@ -158,6 +159,7 @@ GEM
     rb-fsevent (0.9.4)
     rb-inotify (0.9.5)
       ffi (>= 0.5.0)
+    rexml (3.2.4)
     rspec (3.2.0)
       rspec-core (~> 3.2.0)
       rspec-expectations (~> 3.2.0)
